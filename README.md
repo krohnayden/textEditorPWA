@@ -15,13 +15,15 @@ https://pwatexteditor-kh0x.onrender.com/
 ## Usage:
 
 Screenshot of Application 
+<img width="1440" alt="textEditorPWA" src="https://github.com/krohnayden/textEditorPWA/assets/143373263/72bc7f8b-4862-495f-af70-ac1c8d9aa591">
 
 ### Start Application
 cd Develop
 npm i
 npm start
 
-Open your browser and access the text editor application.
+Open your browser and access
+ the text editor application.
 
 Upon running the application, ensure that your JavaScript files are bundled using webpack.
 
